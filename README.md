@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FlynnStream Owner of I.O.B servers
+- 👋 Hi, I’m @FlynnStream Owner of I.O.B
 - 👀 I am interested in computer development of all kinds, Created in the digital universe is a magic that everyone can use
-- 🌱 I’m currently learning Lua / Html5 / Js / Css / C# and C
+- 🌱 I’m currently learning Lua / Html5 / Js / Css / C# / Php 
 - 📫 How to reach me flynn.pro@icloud.com
 
 <!---
